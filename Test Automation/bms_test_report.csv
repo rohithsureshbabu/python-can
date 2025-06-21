@@ -1,0 +1,4 @@
+Test ID,Voltage (V),Expected Fault,Actual Fault,Status
+TC_BMS_OV_001,3.7,0x0,0x0,Pass
+TC_BMS_OV_002,4.2,0x0,0x0,Pass
+TC_BMS_OV_003,4.3,0x1,0x1,Pass

@@ -1,0 +1,5 @@
+Test ID,Voltage (V),Current (A),Temp1 (°C),Temp2 (°C),SOC (%),Faults,Status
+TC_BMS_FAST_001,3.7,20,40,41,50,None,Pass
+TC_BMS_FAST_002,4.3,25,50,50,90,Overvoltage: 4.3V,Fail
+TC_BMS_FAST_003,4.0,35,55,55,80,Overcurrent: 35A,Pass
+TC_BMS_FAST_004,4.0,20,65,57,85,"Overtemperature: 65°C, 57°C, Diff: 8°C",Pass

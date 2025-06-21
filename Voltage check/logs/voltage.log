@@ -1,0 +1,42 @@
+2025-06-21 10:11:13,496 [INFO] Sent voltage: 3.800 V
+2025-06-21 10:11:13,697 [INFO] Received voltage: 3.800 V
+2025-06-21 10:11:13,697 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:11:13,697 [INFO] Sent voltage: 4.300 V
+2025-06-21 10:11:13,899 [INFO] Received voltage: 4.300 V
+2025-06-21 10:11:13,901 [WARNING] \u26a0\ufe0f Voltage out of range: 4.300 V
+2025-06-21 10:11:13,902 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:11:13,902 [INFO] Sent voltage: 2.200 V
+2025-06-21 10:11:14,103 [INFO] Received voltage: 2.200 V
+2025-06-21 10:11:14,103 [WARNING] \u26a0\ufe0f Voltage out of range: 2.200 V
+2025-06-21 10:11:14,104 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:11:14,106 [INFO] Sent voltage: 3.950 V
+2025-06-21 10:11:14,307 [INFO] Received voltage: 3.950 V
+2025-06-21 10:11:14,307 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:54:30,263 [INFO] Sent voltage: 3.800 V
+2025-06-21 10:54:30,464 [INFO] Received voltage: 3.800 V
+2025-06-21 10:54:30,464 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:54:30,465 [INFO] Sent voltage: 4.300 V
+2025-06-21 10:54:30,666 [INFO] Received voltage: 4.300 V
+2025-06-21 10:54:30,667 [WARNING] Voltage out of range: 4.300 V
+2025-06-21 10:54:30,667 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:54:30,667 [INFO] Sent voltage: 2.200 V
+2025-06-21 10:54:30,867 [INFO] Received voltage: 2.200 V
+2025-06-21 10:54:30,868 [WARNING] Voltage out of range: 2.200 V
+2025-06-21 10:54:30,868 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 10:54:30,868 [INFO] Sent voltage: 3.950 V
+2025-06-21 10:54:31,069 [INFO] Received voltage: 3.950 V
+2025-06-21 10:54:31,069 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 20:27:15,143 [INFO] Sent voltage: 3.800 V
+2025-06-21 20:27:15,343 [INFO] Received voltage: 3.800 V
+2025-06-21 20:27:15,343 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 20:27:15,344 [INFO] Sent voltage: 4.300 V
+2025-06-21 20:27:15,545 [INFO] Received voltage: 4.300 V
+2025-06-21 20:27:15,546 [WARNING] Voltage out of range: 4.300 V
+2025-06-21 20:27:15,546 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 20:27:15,546 [INFO] Sent voltage: 2.200 V
+2025-06-21 20:27:15,748 [INFO] Received voltage: 2.200 V
+2025-06-21 20:27:15,749 [WARNING] Voltage out of range: 2.200 V
+2025-06-21 20:27:15,749 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
+2025-06-21 20:27:15,749 [INFO] Sent voltage: 3.950 V
+2025-06-21 20:27:15,949 [INFO] Received voltage: 3.950 V
+2025-06-21 20:27:15,949 [WARNING] DBC decoding failed: Wrong data size: 2 instead of 8 bytes
